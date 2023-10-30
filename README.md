@@ -10,7 +10,7 @@ To get started with the Placement Analytics Tool, you'll need to follow these in
 
     1. Clone this repository to your local machine using the following command:
 
-        git clone https://github.com/your-username/PlacementAnalyticsTool.git
+        git clone https://github.com/devaprog/PlacementAnalyticsTool.git
 
     2. Navigate to the project directory:
         
