@@ -43,3 +43,27 @@ Activate the virtual environment:
 Install the required Python packages:
 
     pip install -r requirements.txt
+
+Usage
+
+To use the Placement Analytics Tool, follow these steps:
+
+    Activate the virtual environment (if not already activated):
+
+        On Windows:
+
+            venv\Scripts\activate
+
+        On macOS and Linux:
+
+            source venv/bin/activate
+
+Start the tool:
+
+    python app.py
+
+Open your web browser and navigate to http://localhost:5000 to access the Placement Analytics Tool.
+
+Follow the on-screen instructions and start using the tool to manage placement-related data.
+
+#or see result via GITHUB PAGE in about
