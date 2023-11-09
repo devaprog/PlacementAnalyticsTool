@@ -62,7 +62,7 @@ Start the tool:
 
     python app.py
 
-Open your web browser and navigate to http://localhost:5000 to access the Placement Analytics Tool.
+Open your web browser and navigate to http://localhost:4000 to access the Placement Analytics Tool.
 
 Follow the on-screen instructions and start using the tool to manage placement-related data.
 
