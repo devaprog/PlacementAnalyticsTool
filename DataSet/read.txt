@@ -1,0 +1,33 @@
+represents:
+
+    sl_no - Serial Number
+
+    gender - Gender
+
+    ssc_p - Secondary Education Percent - 10th Grade
+
+    scc_b - Board of Secondary Education - central/ others
+
+    hsc_p - Higher Secondary Education Percent - 12th Grade
+
+    hsc_b - Board Of Higher Education - Central/ Others
+
+    hsc_s - Specialization in Higher Secondary Education
+
+    degree_p - Degree Percent
+
+    degree_t - Under Graduation(Degree type) Field of degree education
+
+    workex - Work Experience
+
+    etest_p - Employability test Percent (conducted by college)
+
+    specialisation - Post Graduation(MBA) Specialization
+
+    mba_p - MBA percentage
+
+    status - Status of Placement (Placed/Not Placed)
+
+    salary - Salary Offered By corporate to candidates
+
+refer:  https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement/download?datasetVersionNumber=1
